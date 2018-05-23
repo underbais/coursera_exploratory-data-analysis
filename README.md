@@ -1,4 +1,4 @@
-# coursera exploratory data analysis course project
+# Coursera Exploratory Data Analysis Course Project
 
 ## Individual household electric power consumption Data Set plots
 
