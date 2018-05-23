@@ -1,2 +1,1 @@
-# coursera_exploratory-data-analysis
-course project
+# coursera exploratory data analysis course project
